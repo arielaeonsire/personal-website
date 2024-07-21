@@ -14,6 +14,12 @@ body {
 	height: 100%;
 }
 
+@media (max-width: 1200px) {
+	body {
+		margin: 8px 15%;
+	}
+}
+
 .topbar {
 	font-size: 24px;
 	margin-bottom: 12px;
