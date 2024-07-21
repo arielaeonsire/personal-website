@@ -5,6 +5,7 @@ html {
 	background-size: cover;
 	background-image: url("012.gif");
 	background-repeat: no-repeat;
+	background-attachment: fixed;
 	color: #FFFFFF;
 }
 

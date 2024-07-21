@@ -5,6 +5,7 @@ html {
 	background-size: cover;
 	background-image: url("058.jpg");
 	background-repeat: no-repeat;
+	background-attachment: fixed;
 	color: #FFFFFF;
 }
 
