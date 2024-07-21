@@ -1,0 +1,65 @@
+html {
+	font-family: monospace;
+	font-size: 20px;
+	background-color: #000000;
+	background-size: cover;
+	background-image: url("012.gif");
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+}
+
+body {
+	margin: 8px 25%;
+	height: 100%;
+}
+
+.topbar {
+	font-size: 24px;
+	margin-bottom: 12px;
+	text-align: center;
+}
+
+.contents {
+	background: #00000099;
+	padding: 10px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: 2px;
+	text-align: justify;
+}
+
+.go-back {
+	text-align: end;
+}
+
+a {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+
+a:hover {
+	color: #DDDDDD;
+}
+
+.topbar a {
+	text-decoration: none;
+	padding: 4px 10px;
+	display: inline-block;
+	width: 120px;
+	background: #00000099;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: 2px;
+}
+
+.topbar a:hover {
+	border-color: #000000;
+	background: #FFFFFF;
+	color: #000000;
+}
+
+hr {
+	margin: 0;
+	margin-bottom: 8px;
+	color: #FFFFFF;
+}
