@@ -14,12 +14,6 @@ body {
 	height: 100%;
 }
 
-@media (max-width: 1200px) {
-	body {
-		margin: 8px 10%;
-	}
-}
-
 .topbar {
 	font-size: 24px;
 	margin-bottom: 12px;
@@ -33,6 +27,7 @@ body {
 	border-color: #FFFFFF;
 	border-width: 2px;
 	text-align: justify;
+	hyphens: auto;
 }
 
 .go-back {
@@ -69,4 +64,22 @@ hr {
 	margin: 0;
 	margin-bottom: 8px;
 	color: #FFFFFF;
+}
+
+@media (max-width: 1200px) {
+	body {
+		margin: 8px 10%;
+	}
+
+	.topbar {
+		font-size: 26px;
+	}
+
+	.topbar a {
+		width: 180px;
+	}
+
+	.contents {
+		text-align: left;
+	}
 }
