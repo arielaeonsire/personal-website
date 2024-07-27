@@ -1,0 +1,46 @@
+{
+  "lexicon": {
+    "pjungu": {
+      "tags": "n.",
+      "definition": "man"
+    },
+    "shichin": {
+      "tags": "v., intran.",
+      "definition": "to sit"
+    },
+    "rinsun": {
+      "tags": "n., adj.",
+      "definition": "rock"
+    },
+    "i": {
+      "tags": "postpos.",
+      "definition": "in, on, at"
+    },
+    "niwim": {
+      "tags": "v., tran.",
+      "definition": "to have in one's possession"
+    }
+  },
+  "morphosyntax": {
+    "WordOrder": "SOV",
+    "HeadDirectionality": "head-initial",
+    "Cases": {
+      "Nominative": "UNMARKED",
+      "Accusative": "ba",
+      "Dative": "g",
+      "Genitive": "m"
+    },
+    "Plurality": {
+      "Collective": "UNMARKED",
+      "Singulative": "da"
+    },
+    "NounStructure": "root + plurality suffix + case suffix",
+    "Tenses": {
+      "Past": "ng",
+      "Present": "",
+      "Future": "ç"
+    },
+    "VerbStructure": "root + tense suffix"
+  }
+}
+Translate the following sentence into the language described above: "The man sat on a rock."
